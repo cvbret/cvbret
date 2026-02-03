@@ -1,49 +1,143 @@
-# 👋 Hi, I'm [你的名字]
-<!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
-💻 Full Stack Developer | 🚀 Vue/React/SpringBoot 实践者 | 🎮 游戏爱好者
-
-<!-- 技术栈徽章（复用你之前的居中代码） -->
-<div align="center" style="letter-spacing: 2px; margin: 20px 0;">
-  <!-- 前端 -->
-  <img src="https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black" />
-  <!-- 后端 -->
-  <br/>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <!-- 趣味标签 -->
-  <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
-</div>
-
-## 📌 关于我
-- 🔭 目前专注于：[你的技术方向，如「Vue3 + SpringBoot 全栈开发」]
-- 🌱 学习中：[正在学的技术，如「React 生态、Java Stream 编程」]
-- 💬 擅长：[技术领域，如「前端工程化、后端接口设计」]
-- 📫 联系我：[邮箱/博客/公众号，如 `xxx@xxx.com` | [个人博客](https://xxx.com)]
-- ⚡ 趣味：[个性化标签，如「Steam 游戏爱好者、摄影、徒步」]
-
-## 📊 我的 GitHub 数据
-<!-- 自动生成的 GitHub 统计卡片 -->
+<!-- 顶部横幅区 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
+
+# 🚀 欢迎来到楚也青的Github空间!
+
+
+[![GitHub Streak](https://github-readme-streak-state.vercel.app?user=cvbret&theme=transparent&hide_border=true&locale=zh_Hans)](https://git.io/streak-stats)
+
 </div>
 
-## 🌟 重点项目
-| 项目名称 | 技术栈 | 简介 |
-|---------|--------|------|
-| [项目1](项目链接) | Vue3 + TS + Pinia | 「xxx 管理系统」：实现了 xxx 功能，适配移动端/PC 端 |
-| [项目2](项目链接) | SpringBoot + MySQL + Redis | 「xxx 接口服务」：提供 xxx 接口，支持高并发 |
+---
 
-## 🎨 趣味数据
-<!-- GitHub 贡献图 -->
+## 🛠 Technical Arsenal
+
+#### 🧩 Languages & Platforms | 编程语言与平台
+<p align="left"> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/> 
+  <img src="https://img.shields.io/badge/Java-006342?style=for-the-badge&logo=rust&logoColor=white" alt="Java"/>
+</p>
+
+#### ⚙️ Systems & Development | 系统与开发
+<p align="left">
+  <!-- Redis -->
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <!-- Spring Boot -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+
+#### 🤖 AI & Automation | 人工智能与自动化
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4B4B?style=for-the-badge&logo=brain&logoColor=white" alt="Prompt"/>
+</p>
+
+---
+
+## 📌 Currently Exploring | 当前探索
+
+- Personal dev tools & small utilities | 个人开发工具与实用小程序 
+- Backend architecture & software design | 后端架构与软件设计
+- AI-assisted workflows & automation | AI 辅助工作流与自动化实践
+- Plugin system for extensibility | 插件系统实施
+---
+
+## 📈 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourname&theme=github)
+
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+---
+
+## 💡 Collaboration Interests
+
+I'm particularly interested in collaborating on: | 当前感兴趣的领域：
+- Backend architecture & software design | 后端架构与软件设计 
+- Performance optimization tools | 性能优化工具
+- AI-powered developer tools | AI驱动开发者工具
+- Open-source infrastructure projects | 开源基础设施项目
+
+---
+
+<div align="center">
+
+*📫 Reach me at: [3350321643@qq.com](mailto:your.email@domain.com)*  
+
+
+</div>
+
+
+#### 🧩 Languages | 编程语言
+<p align="left"> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> 
+  <img src="https://img.shields.io/badge/C- A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> 
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/> 
+</p>
+
+#### ⚙️ Systems & Dev | 系统与开发
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/> 
+  <img src="https://img.shields.io/badge/GDB-CC0000?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB"/> 
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> 
+</p>
+
+#### 🛠️ Engineering & Tools | 工程与工具
+<p align="left"> 
+  <img src="https://img.shields.io/badge/CLI_Tools-4B8BBE?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="CLI Tools"/> 
+  <img src="https://img.shields.io/badge/Dev_Utilities-6E40C9?style=for-the-badge&logo=gear&logoColor=white" alt="Utilities"/> 
+  <img src="https://img.shields.io/badge/Automation-2ECC71?style=for-the-badge&logo=robotframework&logoColor=white" alt="Automation"/> 
+  <img src="https://img.shields.io/badge/Tooling-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Tooling"/> 
+</p>
+
+#### 🤖 AI & Experiments | AI 与探索
+<p align="left"> 
+  <img src="https://img.shields.io/badge/OCR_Workflows-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OCR"/> 
+  <img src="https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/> 
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4B4B?style=for-the-badge&logo=brain&logoColor=white" alt="Prompt"/> 
+</p>
+
+
+---
+
+## 👋 About Me | 关于我
+
+🎓 Computer Science student who enjoys understanding how things work under the hood  | 计算机专业学生，喜欢研究系统底层是如何运作的  
+
+💻 Comfortable with C/C++, Python, and Linux environments  | 熟悉 C/C++、Python 以及 Linux 开发环境  
+
+🧠 I like building tools, optimizing workflows, and automating repetitive tasks | 喜欢开发工具、优化流程，并用自动化减少重复工作 
+
+⚙️ More interested in systems and engineering than just making apps | 相比做应用，更偏向系统、工程与底层实现 
+
+
+---
+
+### 🚀 Currently Working On | 正在做的事
+
+- 🛠️ Personal dev tools & small utilities | 个人开发工具与实用小程序  
+
+- 🖥️ Exploring Linux, system behavior, and performance | 探索 Linux、系统行为与性能优化  
+  
+- 🤖 AI-assisted workflows & automation | AI 辅助工作流与自动化实践  
+
+---
+
+### 🌱 Currently Learning | 正在学习
+
+- Backend architecture & software design | 后端架构与软件设计  
+
+- Better engineering practices | 更规范的工程实践  
+  
+---
+
+### 💬 Ask Me About | 可以聊的领域
+
+C / C++ • Python • Linux • Git • Dev Tools • Algorithms  
