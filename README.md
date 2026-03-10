@@ -3,6 +3,7 @@
 
 # 🚀 欢迎来到楚也青的Github空间!
 
+![cvbret](https://count.getloli.com/@cvbret?theme=booru-ffsr)
 
 [![GitHub Streak](https://github-readme-streak-state.vercel.app?user=cvbret&theme=transparent&hide_border=true&locale=zh_Hans)](https://git.io/streak-stats)
 
